@@ -1,1 +1,3 @@
+- name: Pip Installer
+  uses: BSFishy/pip-action@v1
 theme: jekyll-theme-hacker
